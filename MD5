@@ -1,0 +1,17 @@
+9b5f222b0d64a49911a06a9be48f489a *DESCRIPTION
+558e18dae3133581aa9c8a4ebed9014b *NAMESPACE
+df7dff542de065b51971e23d5f0922b7 *R/CRPClustering.R
+9a2ac1f47d507fef56fe3eb336529b25 *R/DataDocument.R
+7c03e4162994c69c232c3d368e649b9b *build/vignette.rds
+ca94d10763bb242285c673c8f7f669f0 *data/data.csv
+5d1ac39c0d065d5796cf8ff0ce1cabb0 *data/data.rda
+dc9aecce0c1344436a7fc8176396ad98 *inst/doc/CRPClustering-vignette.R
+ef6b74d6e3be7ae1ffb65fa82a7ca144 *inst/doc/CRPClustering-vignette.Rmd
+1cdb1813028d92cead3c633517fb0897 *inst/doc/CRPClustering-vignette.pdf
+f03a7798079343c169408efee3259e9b *inst/doc/CRPClustering.pdf
+6343a6f72010001754e2ac4c6cac707e *man/crp_gibbs.Rd
+2d972d08b4f8f7b7cd11b5ff4c60a98d *man/crp_graph_2d.Rd
+5278ce859eaa3282765c00df721be4b1 *man/data.Rd
+ef6b74d6e3be7ae1ffb65fa82a7ca144 *vignettes/CRPClustering-vignette.Rmd
+d323bcffd3ab2eeccb673820a496db5a *vignettes/citation.bib
+e12d3dc54535da06938d10869fda45bc *vignettes/image2.png
